@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardLinq", "CardLinq\CardLinq.csproj", "{BCB81A23-CEA3-484D-A0EF-B597BDCB1127}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCB81A23-CEA3-484D-A0EF-B597BDCB1127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB81A23-CEA3-484D-A0EF-B597BDCB1127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB81A23-CEA3-484D-A0EF-B597BDCB1127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB81A23-CEA3-484D-A0EF-B597BDCB1127}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CDF423B-D071-4495-AD63-D5190CDDC75B}
+	EndGlobalSection
+EndGlobal
